@@ -1,6 +1,0 @@
-CorrelationId: 90a6c254-7f94-46bc-a369-483d447dd2e2
-UTC DateTime: 11/07/2025 06:20:04
-
-The following files/folders have not been downloaded
-0. Hafta_2/YBSHafta2/.gradle/8.13/gc.properties
-1. Hafta_2/YBSHafta2/.gradle/vcs-1/gc.properties
