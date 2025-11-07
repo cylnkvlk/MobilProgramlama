@@ -1,0 +1,6 @@
+CorrelationId: 0753acb1-c400-4de8-bbc0-a26b9a199f53
+UTC DateTime: 11/07/2025 06:20:29
+
+The following files/folders have not been downloaded
+0. Hafta_7/LoginRegisterApp/.gradle/8.13/gc.properties
+1. Hafta_7/LoginRegisterApp/.gradle/vcs-1/gc.properties
